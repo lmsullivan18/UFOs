@@ -6,7 +6,7 @@ The purpose of this assignment was to update our UFO sightings websites to allow
 
 ## Results
 
-To use the new webpage, all a user must do is enter a new search criterion in the corresponding search bar. For example, a user can find all UFO sightings that took place in California by typing “ca” into the “Enter State” search bar.
+To use the new webpage, a user can filter the UFO sightings data based on date, city, state, country and shape. All a user must do is enter a new search criterion in the corresponding search bar. For example, a user can find all UFO sightings that took place in California by typing “ca” into the “Enter State” search bar. The site is case-sensitive, so the search you type must exactly match what you are looking for.
 
 <<ADD IMAGES >>
 
