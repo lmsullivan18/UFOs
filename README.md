@@ -14,6 +14,6 @@ To use the new webpage, a user can filter the UFO sightings data based on date, 
 
 ## Summary
 
-One drawback of the webpage is that the search function is case sensitive. I understand this is a JavaScript limitation, so I would add a note near the search functions to let the site visitor know about this limitation. My two recommendations for further development would be to add back the filter button, and use that as the “event” for filtering the table. I personally think having the button makes the user experience a little bit better. I would also add an additional function that adds all the data back when the search bars are cleared – right now you have to refresh the page to get it back.
+One drawback of the webpage is that the search function is case sensitive. I understand this is a JavaScript limitation, so I would add a note near the search functions to let the site visitor know about this limitation. My two recommendations for further development would be to add back the filter button, and use that as the “event” for filtering the table. I personally think having the button makes the user experience a little bit better. I would also add an additional function that adds all the data back when the search bars are cleared – right now you have to refresh the page to get the original data fill back.
 
 
